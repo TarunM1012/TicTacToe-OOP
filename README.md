@@ -19,9 +19,11 @@ Uses the Minimax algorithm for decision-making.
 
 AI selects the best possible moves, making it unbeatable when enabled.
 
-## Dynamic Game State Management: Real-time updates of the board and player turns.
+## Dynamic Game State Management: 
+Real-time updates of the board and player turns.
 
-## Win/Tie Detection: Automated recognition of win conditions and draw scenarios.
+## Win/Tie Detection:
+Automated recognition of win conditions and draw scenarios.
 
 # Technologies
 Java 22
